@@ -1,5 +1,3 @@
-# Projeto-Agrinho
-
 # Fontes:
 
 1. Icone: "icon.png" Link: https://icons8.com/icons/set/semente
