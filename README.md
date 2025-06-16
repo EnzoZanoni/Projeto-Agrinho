@@ -1,3 +1,20 @@
+# 🌱 Saberes da Terra!
+
+Criei o  Saberes da Terra com o propósito de aproximar o campo da cidade, valorizando o produtor rural e promovendo os saberes originados da terra. Por meio deste site, busco conectar pessoas, tradições e experiências, incentivando uma verdadeira troca entre quem cultiva e quem consome.
+
+Em meu projeto, você encontrará:
+
+🍲 Receitas típicas, elaboradas com ingredientes do campo e acompanhadas de relatos que resgatam tradições familiares.
+
+🌾 Eventos culturais que enaltecem a vida rural e suas contribuições para a sociedade urbana.
+
+Através  desse site, assumo o compromisso de valorizar os produtores rurais, estimular o consumo consciente e fortalecer os vínculos entre as comunidades urbanas e rurais. Entendo que fortalecer a conexão entre campo e cidade é fundamental para garantir uma alimentação saudável, valorizar a agricultura familiar, preservar tradições e impulsionar a economia local.
+
+Práticas simples, como consumir produtos de pequenos produtores, participar de feiras e conhecer a origem dos alimentos, integram este projeto e podem transformar a relação da sociedade com o meio rural. O Saberes da Terra integra o Projeto Agrinho e convida você a celebrar comigo essa conexão tão rica e necessária entre o campo e a cidade.
+
+ 🌻 Participe desta rede de saberes, sabores e sustentabilidade
+
+
 # Fontes:
 
 1. Icone: "icon.png" Link: https://icons8.com/icons/set/semente
