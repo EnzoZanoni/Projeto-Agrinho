@@ -14,7 +14,7 @@ Práticas simples, como consumir produtos de pequenos produtores, participar de 
 
  🌻 Participe desta rede de saberes, sabores e sustentabilidade
 
-
+Segue abaixo todas as fontes das imagens usadas no site.
 # Fontes:
 
 1. Icone: "icon.png" Link: https://icons8.com/icons/set/semente
@@ -27,3 +27,5 @@ Práticas simples, como consumir produtos de pequenos produtores, participar de 
 8. Imagem 4: "bolo-milho.png" Link: https://www.pngkit.com/view/u2e6q8o0w7e6i1u2_imagens-de-bolo-de-milho/
 9. Imagem 5: "torta-legumes.png" Link: https://receitas.globo.com/ana-maria-braga/salgados/torta-de-legumes.ghtml
 10. Imagem 6: "arroz.png" Link: https://panelaboa.com/wp-content/uploads/2024/03/Arroz-com-Frango-Desfiado.jpg
+
+2025 | Desenvolvido por Enzo - Projeto AGRINHO - Festejando a Conexão Campo Cidade
